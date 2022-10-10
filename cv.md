@@ -25,5 +25,8 @@ Visited online lectures & meet-ups about JS, PHP
 **English:** B2, have experience in working with foreign clients. Practicing with a tutor twice a week
 
 ### Experience
+- [x] 2012-2022: **Freelance web-developer**: PHP, JS:
+  many projects, including projecting and full-stack development (starting from setting up a server, to creating a database, to writing a code, to deploying the project)
+- [x] 2022: **Yandex.Praktikum**: "Stellar-burger" project with React/Redux/TypeScript
 
 ### Code examples:
