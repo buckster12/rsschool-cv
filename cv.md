@@ -5,9 +5,8 @@
 Name: Dzmitry Harbatsevich
 
 - [email](mailto:me@zmiter.com)
-- [github](https://buckster12.github.com)
-- [linkedin](https://www.linkedin.com/in/.../)
-- [telegram](https://t.me/...)
+- [github](https://github.com/buckster12/)
+- [linkedin](https://www.linkedin.com/in/dmitry-harbatsevich-917551121/)
 
 ### Summary
 I am a software engineer with 10+ years of experience in the field. 
