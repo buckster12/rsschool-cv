@@ -22,6 +22,7 @@ Faculty of Computer Science and Information Technology, 2013-2018
 Visited online lectures & meet-ups about JS, PHP
 
 ### Other skills
+**English:** B2, have experience in working with foreign clients. Practicing with a tutor twice a week
 
 ### Experience
 
