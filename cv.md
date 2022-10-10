@@ -5,7 +5,7 @@
 Name: Dzmitry Harbatsevich
 
 - [email](mailto:me@zmiter.com)
-- [github](https://buckster12.github.com)
+- [github](https://github.com/buckster12/)
 - [linkedin](https://www.linkedin.com/in/.../)
 - [telegram](https://t.me/...)
 
