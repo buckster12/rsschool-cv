@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background: whitesmoke;
+    margin: 0 auto;
+    width: 70%;
+    padding: 1em;
+}
+
+header p {
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 1em;
+}
+
+main {
+    background: white;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+}
+
+a {
+    color: steelblue;
+}
+
+footer a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+footer {
+    display: flex;
+}
+
+footer p, time {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+}
