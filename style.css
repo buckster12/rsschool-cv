@@ -11,6 +11,10 @@ header p {
     padding-bottom: 1em;
 }
 
+ul li {
+    padding: 0.5em 0 0 0;
+}
+
 main {
     background: white;
     padding: 1em;
